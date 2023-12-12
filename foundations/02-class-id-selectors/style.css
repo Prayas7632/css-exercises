@@ -1,0 +1,22 @@
+.all_odd {
+    text-align: left;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even2 {
+    text-align: left;
+    color: blue;
+    font-size: 36px;
+}
+
+.all_odd.number3 {
+    font-size: 24px;
+}
+
+
+#even4 {
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
